@@ -18,8 +18,9 @@ The following list are projects that are not only of interest/benefit to most VB
 
 ### Games
 
-- ["Classic" Solitaire](https://github.com/DualBrain/Solitaire)
-- [Checkers Solitaire](https://github.com/DualBrain/CheckersSolitaire)
+- [A "SpaceInvaders" Game](https://github.com/CoolCoderSuper/SpaceInvaders) (Avalonia UI; desktop and web)
+- ["Classic" Solitaire](https://github.com/DualBrain/Solitaire) (Windows Forms)
+- [Checkers Solitaire](https://github.com/DualBrain/CheckersSolitaire) (Windows Forms)
 
 ### Emulators
 
