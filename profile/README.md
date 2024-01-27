@@ -2,34 +2,16 @@
 The GitHub organization specifically operated by and for the VB community!
 
 ## OSS from the VB Community
-The following list are projects that are not only of interest/benefit to most VB developers, but are also primarily built in VB. So if you are interested in getting more involved in open-source as a VB dev... check these out!
+The following list are projects that are not only of interest/benefit to most VB developers, but are also primarily built in VB. So if you are interested in getting more involved in open-source, you can join us here or any of these wonderful teams... check these out!
 
-### Libraries
-
-- [vbPixelGameEngine](https://github.com/DualBrain/vbPixelGameEngine)
-- [Vazor](https://github.com/VBAndCs/Vazor)
-- [vbXlib](https://github.com/Dualbrain/vbXlib)
-
-### Tools
-
-- [CSharpToVB (powered by 'Roslyn')](https://github.com/paul1956/CSharpToVB)
-- [Code Coverage](https://github.com/paul1956/Code-Coverage)
-- [VB to WebAssembly Compiler (Proof-of-Concept)](https://github.com/biocad-cloud/data.ts/releases/tag/v0.5.136-alpha)
-
-### Games
-
-- [A "SpaceInvaders" Game](https://github.com/CoolCoderSuper/SpaceInvaders) (Avalonia UI; desktop and web)
-- ["Classic" Solitaire](https://github.com/DualBrain/Solitaire) (Windows Forms)
-- [Checkers Solitaire](https://github.com/DualBrain/CheckersSolitaire) (Windows Forms)
-
-### Emulators
-
-- [x8086NetEmu](https://github.com/morphx666/x8086NetEmu)
+[vbPixelGameEngine](https://github.com/DualBrain/vbPixelGameEngine), [Vazor](https://github.com/VBAndCs/Vazor), [vbXlib](https://github.com/Dualbrain/vbXlib)
+[CSharpToVB (powered by 'Roslyn')](https://github.com/paul1956/CSharpToVB) [Code Coverage](https://github.com/paul1956/Code-Coverage)
+[VB to WebAssembly Compiler (Proof-of-Concept)](https://github.com/biocad-cloud/data.ts/releases/tag/v0.5.136-alpha)
+[SpaceInvaders](https://github.com/CoolCoderSuper/SpaceInvaders) ["Classic" Solitaire](https://github.com/DualBrain/Solitaire) [Checkers Solitaire](https://github.com/DualBrain/CheckersSolitaire) [x8086NetEmu](https://github.com/morphx666/x8086NetEmu)
 
 Know of any others? Let us know!
 
 ## Connect with us
-
 Many of us hang out on [Discord](https://discord.gg/Y8EH5fF6WG), some use [this invite](https://discord.gg/Y8EH5fF6WG) to join the conversations.
 
 <!--
