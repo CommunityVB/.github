@@ -9,7 +9,7 @@ The following list are projects that are not only of interest/benefit to most VB
 Know of any others? Let us know!
 
 ## Connect with us
-Many of us hang out on [Discord](https://discord.gg/Y8EH5fF6WG), some use [this invite](https://discord.gg/Y8EH5fF6WG) to join the conversations.
+Many of us hang out on [Discord](https://discord.gg/Y8EH5fF6WG), you can use [this invite](https://discord.gg/Y8EH5fF6WG) to join the conversations.
 
 <!--
 
